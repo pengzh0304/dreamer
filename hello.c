@@ -7,6 +7,7 @@ void print(void)
 
 int main(void)
 {
+	print();
 	printf("hello world\n");
 	return 0;
 }
